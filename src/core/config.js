@@ -1,13 +1,12 @@
 // Replace with your own firebase config!
-export const FIREBASE_CONFIG = {
-  apiKey: 'AIzaSyBDsdN3XWM5D2-c_ti5j44GrhMnBHNmSF0',
-  authDomain: 'react-native-market-2861b.firebaseapp.com',
-  databaseURL: 'https://react-native-market-2861b.firebaseio.com',
-  projectId: 'react-native-market-2861b',
-  storageBucket: 'react-native-market-2861b.appspot.com',
-  messagingSenderId: '878215484396',
-  appId: '1:878215484396:web:c36074bccb0b5693b0a6c9',
-  measurementId: 'G-317PLP59P2',
+export const firebaseConfig = {
+  apiKey: "AIzaSyA7RD7pkkk2xovYF4TDZtHT--95lC4uR5I",
+  authDomain: "deed-12c1c.firebaseapp.com",
+  projectId: "deed-12c1c",
+  storageBucket: "deed-12c1c.appspot.com",
+  messagingSenderId: "523088636413",
+  appId: "1:523088636413:web:2448fb9972e4783248d194",
+  measurementId: "G-CWHMEMCBXX"
 }
 
 // Replace with your own IDs! follow the guides here:
